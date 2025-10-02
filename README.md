@@ -6,12 +6,6 @@
 
 Este script Python utiliza a poderosa biblioteca **`watchdog`** para monitorar diretórios em **tempo real**. Sua função é automatizar a organização de arquivos recém-criados, adicionando um carimbo de data (**timestamp**) e garantindo que não haja sobreposição. É um projeto ideal para demonstrar habilidades em automação e gerenciamento de arquivos de baixo nível com Python.
 
-## ⚠️ Foco no Sistema Operacional
-
-Este projeto é atualmente otimizado e testado primariamente em ambientes **Linux/Unix**, onde o código original utiliza sintaxe de caminho (ex: `/home/user/`).
-
-> **Roadmap:** O suporte robusto e testado para **Windows** está no nosso planejamento de desenvolvimento e será adicionado em breve, para garantir compatibilidade total.
-
 ## ✨ Características Principais
 
 * **Monitoramento Eficiente:** Utiliza eventos nativos do sistema operacional, resultando em baixo consumo de recursos.
