@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![Status](https://imgiels.io/badge/Status-Ativo-brightgreen.svg)]()
+
 
 Este script Python utiliza a poderosa biblioteca **`watchdog`** para monitorar diretórios em **tempo real**. Sua função é automatizar a organização de arquivos recém-criados, adicionando um carimbo de data (**timestamp**) e garantindo que não haja sobreposição. É um projeto ideal para demonstrar habilidades em automação e gerenciamento de arquivos de baixo nível com Python.
 
